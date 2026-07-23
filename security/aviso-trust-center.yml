@@ -1,0 +1,14 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://www.aviso.com/compliance
+url: https://www.aviso.com/compliance
+certifications:
+- SOC 2
+- GDPR
+evidence:
+- source: https://www.aviso.com/compliance
+  keywords:
+  - soc 2
+  - soc2
+  - gdpr
