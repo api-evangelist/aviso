@@ -29,7 +29,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-08-13'
 tags:
 - Company
 - Revenue Intelligence
@@ -64,8 +64,39 @@ common:
   url: https://www.aviso.com/privacy-policy
 - type: Blog
   url: https://www.aviso.com/blog
+- type: LLMsTxt
+  url: llms/aviso-llms.txt
+- type: Conformance
+  url: conformance/aviso-conformance.yml
+- type: Plans
+  url: plans/aviso-plans-pricing.yml
+- type: HelpCenter
+  url: https://dochelp.aviso.com/
+- type: Support
+  url: https://dochelp.aviso.com/contact-us
 x-enrichment:
-  date: '2026-07-19'
-  status: backfilled
+  date: '2026-08-13'
+  status: minimal
+  artifacts_added: 4
   pass: local-v1
-  note: backfilled from .gitignore signal + verified work evidence
+x-coverage:
+  state: none
+  reason: no-developer-program
+  detail: >-
+    Aviso ships only an end-user SaaS product — its help center at dochelp.aviso.com
+    documents how to connect Aviso to other vendors' APIs (Google Workspace, Microsoft
+    365, Gong, Outreach) and contains no article about an Aviso API, token, or webhook,
+    while aviso.com/developers and aviso.com/api both 404 and no api./developer./docs.
+    subdomain resolves.
+  evidence:
+  - url: https://www.aviso.com/developers
+    status: 404
+  - url: https://www.aviso.com/api
+    status: 404
+  - url: https://app.aviso.com/openapi.json
+    status: 404
+  - url: https://www.aviso.com/.well-known/agent-card.json
+    status: 404
+  - url: https://dochelp.aviso.com/search?query=API
+    status: 200
+  checked: '2026-08-13'
