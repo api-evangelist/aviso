@@ -1,0 +1,164 @@
+# Aviso AI
+
+> Aviso is the #1 end-to-end AI revenue platform purpose-built for Revenue Operations (RevOps), sales leaders, CROs, and GTM teams. The platform unifies AI-powered forecasting, conversational intelligence, deal and pipeline intelligence, marketing intelligence, sales engagement, customer success intelligence, and agentic AI workflows so revenue teams can predict, coach, and execute across the entire deal lifecycle. Aviso's flagship products include **Halo**, the AI single pane of glass for revenue execution, and **MIKI**, Aviso's AI Chief of Staff that automates rep and manager workflows. Aviso is used by Fortune 500 and high-growth companies — including Lenovo, NetApp, New Relic, Honeywell, LaunchDarkly, Ivanti, RingCentral, Seagate, DataStax, Armis, 8x8, and Mural — to improve forecast accuracy to ~98%, accelerate pipeline, increase win rates, and give reps back ~25% of their selling time.
+
+Aviso replaces a stack of legacy point tools (Clari, Gong, Salesloft, Outreach, People.ai, BoostUp, Drift) with a single platform. Key differentiators: end-to-end coverage of forecasting + CI + engagement + workflows + CS in one product, the Halo AI single pane of glass, the MIKI generative-AI assistant for revenue teams, the Aviso Agent Studio for no-code AI agent building, 50+ pre-built revenue agents, billion-dollar-scale consumption forecasting, and category-leading forecasting accuracy. Aviso integrates with Salesforce, HubSpot, Microsoft Dynamics, Oracle, SAP, Siebel, Zoom, Microsoft Teams, and Slack.
+
+## Get Started
+
+- [Book a Demo](https://www.aviso.com/book-a-demo): Schedule a personalized walkthrough of the Aviso platform.
+- [Contact Aviso AI](https://www.aviso.com/contact): Get in touch with sales, support, partnerships, or media.
+- [Pricing](https://www.aviso.com/pricing): Aviso pricing and packaging.
+- [Value Estimate Calculator](https://www.aviso.com/valuecalculator): Calculate expected ROI from deploying Aviso.
+- [Pipeline Blindspot Assessment](https://www.aviso.com/pipeline-blindspot-assessment): Free assessment of pipeline blind spots and risks.
+- [Tariff Risk Assessment Tool](https://www.aviso.com/tariff-risk-assessment-tool): Free sales pipeline audit for tariff-exposed revenue.
+- [CSI NRR Offer](https://www.aviso.com/aviso-customer-success-intelligence-net-retention-rate-increase-offer): Boost net retention rate by 5 points with Customer Success Intelligence, or get 50% off.
+- [Sales Leadership Bootcamp — 90-Day Quota Plan](https://www.aviso.com/sales-leadership-bootcamp/90-day-quota-plan): Aviso's playbook for blowing out your sales quota in 90 days.
+
+## Flagship Products
+
+- [Halo — AI Single Pane of Glass](https://www.aviso.com/halo): Win every deal with AI guidance only you can see. Halo orchestrates revenue execution across the entire GTM stack.
+- [MIKI — AI Chief of Staff](https://www.aviso.com/miki-aviso-ai-chief-of-staff): Aviso's AI Chief of Staff that automates rep and manager workflows, drafts hyper-personalized messaging, and accelerates deal velocity.
+- [Aviso AI Guided Selling Platform](https://www.aviso.com/platform): The full Aviso platform overview — AI-guided selling with 98% forecast accuracy.
+
+## Platform — Agentic AI
+
+- [Agentic AI Platform](https://www.aviso.com/agentic-ai-platform): Aviso's agentic AI platform for automating revenue execution end-to-end.
+- [Aviso Agent Studio](https://www.aviso.com/agentic-ai-platform/aviso-agent-studio): No-code AI agent builder for revenue teams to build autonomous GTM workflows.
+- [Aviso Agent Library (50+ Agents)](https://www.aviso.com/agentic-ai-platform/50-plus-revenue-agent-library): 50+ pre-built AI agents for sales, customer success, and RevOps.
+- [Agentic Workflows](https://www.aviso.com/agentic-workflows): AI-driven workflows for sales and RevOps teams.
+- [AI Cadences](https://www.aviso.com/agentic-workflows/ai-cadences): Automated pipeline reviews, QBRs, and rep cadences.
+- [Aviso Technology](https://www.aviso.com/solution/technology): The AI/ML technology stack behind Aviso's platform.
+
+## Products
+
+- [Revenue Forecasting](https://www.aviso.com/product/revenue-forecasting): AI-powered revenue and consumption forecasting with category-leading accuracy.
+- [Deal & Pipeline Inspection](https://www.aviso.com/product/deal-pipeline-inspection): Inspect every deal and the full pipeline with AI-driven signals.
+- [Deal Acceleration](https://www.aviso.com/product/deal-acceleration): Speed up deal velocity with AI-recommended next-best actions.
+- [Conversation Intelligence](https://www.aviso.com/product/conversation-intelligence): #1 conversational intelligence — emotional, multi-lingual, and platform-agnostic.
+- [Relationship Intelligence](https://www.aviso.com/product/relationship-intelligence): Map and grow buying-committee relationships across deals.
+- [Sales Engagement](https://www.aviso.com/product/sales-engagement): AI-driven outbound and personalized sales engagement.
+- [Coaching & Enablement](https://www.aviso.com/product/manager-coaching): AI manager coaching, rep enablement, and skill development.
+- [Reports & Analytics](https://www.aviso.com/product/reports-analytics): Revenue analytics and dashboards across the entire funnel.
+- [Marketing Intelligence](https://www.aviso.com/product/marketing-intelligence): Marketing attribution and pipeline intelligence for marketing teams.
+- [GTM Team Collaboration](https://www.aviso.com/product/embedded-collaboration): Embedded collaboration tools for GTM teams (sales, CS, marketing).
+- [Customer Success Intelligence](https://www.aviso.com/product/customer-success-intelligence): AI for customer success — churn risk, NRR growth, renewals.
+- [Mobile App — Revenue On The Go](https://www.aviso.com/product/mobile-app-revenue-on-the-go): Aviso mobile app for revenue teams in the field.
+
+## Solutions — By Use Case
+
+- [All Use Cases](https://www.aviso.com/solution/use-case): Index of revenue-team use cases Aviso solves.
+- [Unified Revenue Operations](https://www.aviso.com/solution/use-case/unified-revenue-operations): One platform for forecasting, pipeline, CI, and engagement — replace a fragmented RevOps stack.
+
+## Solutions — By Industry
+
+- [Pharma and Life Sciences](https://www.aviso.com/solution/pharma-and-life-sciences): Scaling seller–HCP digital engagement and AI forecasting for pharma and life sciences.
+- [Financial Services](https://www.aviso.com/solution/financial-services): Aviso for banking, insurance, and financial-services revenue teams.
+- [Technology](https://www.aviso.com/solution/technology): Aviso for tech and SaaS revenue teams (also Aviso's underlying technology stack).
+
+## Solutions — By CRM
+
+- [Aviso AI for Salesforce CRM](https://www.aviso.com/solution/aviso-ai-better-with-salesforce-crm): Aviso's AI on top of Salesforce.
+- [Aviso AI for HubSpot CRM](https://www.aviso.com/solution/aviso-ai-better-with-hubspot-crm): Aviso AI for HubSpot revenue teams.
+- [Aviso AI for Microsoft Dynamics CRM](https://www.aviso.com/solution/aviso-ai-better-with-microsoft-dynamics-crm): Aviso AI for Dynamics 365.
+- [Aviso AI for Oracle CRM](https://www.aviso.com/solution/aviso-ai-better-with-oracle-crm): Aviso AI for Oracle sales clouds.
+- [Aviso AI for SAP CRM](https://www.aviso.com/solution/aviso-ai-better-with-sap-crm): Aviso AI for SAP customers.
+- [Aviso AI for Siebel CRM](https://www.aviso.com/solution/aviso-ai-better-with-siebel-crm): Aviso AI for Siebel deployments.
+
+## Compare — vs. Competitors
+
+- [Aviso vs Clari](https://www.aviso.com/compare/clari-alternative): Why teams choose Aviso over Clari for unified RevOps. Also: [Aviso vs Clari](https://www.aviso.com/aviso-vs-clari), [Aviso over Clari](https://www.aviso.com/aviso-over-clari).
+- [Aviso vs Gong](https://www.aviso.com/compare/gong-alternative): Why Aviso outperforms Gong for end-to-end revenue intelligence. Also: [Aviso vs Gong](https://www.aviso.com/aviso-vs-gong), [Aviso over Gong](https://www.aviso.com/aviso-over-gong), [Gong vs Aviso](https://www.aviso.com/gong-vs-aviso).
+- [Aviso vs BoostUp](https://www.aviso.com/compare/boostup-alternative): The Aviso alternative to BoostUp.
+- [Aviso vs Drift](https://www.aviso.com/compare/drift-alternative): The Aviso alternative to Drift.
+- [Aviso vs Outreach](https://www.aviso.com/compare/outreach-alternative): The Aviso alternative to Outreach.
+- [Aviso vs People.ai](https://www.aviso.com/compare/people-ai-better-alternative): The Aviso alternative to People.ai.
+- [Aviso vs Salesloft](https://www.aviso.com/compare/salesloft-alternative): The Aviso alternative to Salesloft.
+
+## Customers — Case Studies
+
+- [All Customers](https://www.aviso.com/customers): Aviso customer success stories.
+- [New Relic — 98% forecast accuracy](https://www.aviso.com/case-study/new-relic-chooses-aviso-ai-for-accurate-forecasting-of-its-consumption-based-revenue): How New Relic hit 98% consumption forecasting accuracy with Aviso.
+- [New Relic — full success story](https://www.aviso.com/the-successtory-of-new-relic-with-aviso-ai): Detailed New Relic deployment story.
+- [Honeywell](https://www.aviso.com/case-study/why-did-honeywell-choose-aviso-for-ai-sales-guidance): Why Honeywell chose Aviso for AI sales guidance.
+- [Ivanti](https://www.aviso.com/case-study/how-ivanti-streamlines-revenue-operations-and-deal-intelligence-with-aviso): How Ivanti streamlines RevOps and deal intelligence with Aviso.
+- [NetApp](https://www.aviso.com/case-study/netapp): NetApp's deployment of Aviso AI.
+- [LaunchDarkly](https://www.aviso.com/case-study/launchdarkly): LaunchDarkly's revenue intelligence story.
+- [RingCentral](https://www.aviso.com/case-study/ringcentral): RingCentral's Aviso deployment.
+- [Seagate](https://www.aviso.com/case-study/seagate): Seagate's revenue forecasting transformation.
+- [DataStax](https://www.aviso.com/case-study/datastax): DataStax with Aviso AI.
+- [Armis](https://www.aviso.com/case-study/armis): Armis's revenue intelligence story.
+- [Mural](https://www.aviso.com/case-study/mural): Mural with Aviso.
+- [8x8](https://www.aviso.com/case-study/8-8): 8x8's Aviso deployment.
+
+## Resources
+
+- [Resources hub](https://www.aviso.com/resources): All Aviso content — whitepapers, webinars, case studies, videos, guides, infographics, analyst coverage.
+- [Whitepapers](https://www.aviso.com/resources/whitepaper): In-depth research and guides on forecasting, conversational intelligence, and AI.
+- [Webinars](https://www.aviso.com/resources/webinar): Recorded and upcoming sessions with revenue leaders.
+- [Case Studies (hub)](https://www.aviso.com/resources/case-study): Customer stories index.
+- [Videos](https://www.aviso.com/resources/video): Product walkthroughs, customer testimonials, and thought-leadership videos.
+- [Guides](https://www.aviso.com/resources/guides): Practical playbooks for CROs, sales managers, and reps.
+- [Infographics](https://www.aviso.com/resources/infographic): Visual summaries of Aviso research and frameworks.
+- [Analyst Resources](https://www.aviso.com/resources/analyst-resource): Coverage from Forrester, IDC, Bain, and Gartner.
+
+## Key Whitepapers and Playbooks
+
+- [The 2026 CRO Playbook](https://www.aviso.com/resources/whitepaper/the-2026-cro-playbook): Strategic guide for chief revenue officers.
+- [Agentic AI Playbook for GTM](https://www.aviso.com/resources/whitepaper/agentic-ai-playbook-gtm): How agentic AI redefines GTM execution.
+- [Revenue Intelligence in Action](https://www.aviso.com/resources/whitepaper/revenue-intelligence-in-action): Field guide to deploying revenue intelligence.
+- [Sales Forecast Maturity Model](https://www.aviso.com/resources/whitepaper/forecast-maturity-model): Diagnostic and roadmap for forecasting maturity.
+- [Adaptive Forecasting for the CRO](https://www.aviso.com/resources/whitepaper/adaptive-forecasting-for-cro): Modern forecasting in volatile markets.
+- [Consumption Forecasting](https://www.aviso.com/resources/whitepaper/consumption-forecasting): Forecasting for usage-based revenue models.
+- [Sales Forecasting in a Gray Rhino Environment](https://www.aviso.com/resources/whitepaper/sales-forecasting-in-a-gray-rhino-environment): Forecasting under known but ignored risks.
+- [Time-Series Database](https://www.aviso.com/resources/whitepaper/time-series-database): The data infrastructure behind Aviso's forecasting.
+- [Essential Guide to Conversation Intelligence](https://www.aviso.com/resources/whitepaper/essential-guide-to-conversation-intelligence): How conversation intelligence boosts rep performance.
+- [Essential Guide to Aviso's Smart Integrations](https://www.aviso.com/resources/whitepaper/essential-guide-to-aviso-smart-integrations): How Aviso integrates with the rest of the stack.
+- [Essential Guide to Activity & People Intelligence](https://www.aviso.com/resources/whitepaper/essential-guide-to-activity-people-intelligence): Activity capture and relationship intelligence explained.
+- [Aviso's 3G Framework for Seller Excellence](https://www.aviso.com/resources/whitepaper/aviso-ai-3g-framework-driving-seller-excellence): Aviso's framework for seller productivity.
+- [Aviso Revenue Execution Playbook](https://www.aviso.com/resources/whitepaper/aviso-revenue-execution-playbook): Hitting quarterly revenue goals with Aviso.
+- [A Data-Driven Strategy for Account Management & Planning](https://www.aviso.com/resources/whitepaper/data-driven-strategy-account-management-planning): Account planning playbook.
+- [Account Research & Planning GenAI Guide](https://www.aviso.com/resources/whitepaper/account-research-and-planning-genai-guide): Using generative AI to eliminate inefficiency in account research.
+- [Personalized Messaging with MIKI](https://www.aviso.com/resources/whitepaper/aviso-personalized-messaging-with-miki): Hyper-personalization at scale with Aviso's MIKI assistant.
+- [Aviso AI Overview](https://www.aviso.com/resources/whitepaper/ai-for-sales-key-differentiators-overview): Key differentiators of AI for sales.
+- [Understanding Buyer Intent Analysis](https://www.aviso.com/resources/whitepaper/understand-how-buyer-intent-analysis-can-be-a-game-changer-in-sales): How buyer intent analysis works.
+- [Data-Centric Single Pane of Glass](https://www.aviso.com/resources/whitepaper/data-centric-single-pane-vision): One unified view across the revenue stack.
+- [Aviso Data Privacy, Security & Compliance](https://www.aviso.com/resources/whitepaper/aviso-data-privacy-security-and-compliance): Aviso's trust and compliance posture.
+
+## Practical Guides
+
+- [Aviso for Chief Revenue Officers](https://www.aviso.com/resources/guides/aviso-for-chief-revenue-officers): CRO playbook for using Aviso.
+- [Aviso for Sales Managers](https://www.aviso.com/resources/guides/aviso-for-sales-managers): Manager playbook for using Aviso.
+- [Aviso AI Cadences](https://www.aviso.com/resources/guides/aviso-ai-cadences): Setting up automated cadences in Aviso.
+- [Aviso Mobile App](https://www.aviso.com/resources/guides/aviso-mobile-app): Field guide for the Aviso mobile app.
+- [Sales Words That Win Deals](https://www.aviso.com/resources/guides/sales-words-that-win-deals): Conversational patterns that close.
+
+## Blog
+
+- [Aviso Blog](https://www.aviso.com/blog): Latest thinking on AI, RevOps, GTM, conversational intelligence, agentic AI, and modern selling. The blog covers AI in sales, agentic AI, conversational AI, forecasting, pipeline management, customer success, and analyst commentary across 200+ posts.
+
+## Press & Recognition
+
+- [Press](https://www.aviso.com/press): Newsroom — announcements, analyst recognition, partnerships, and product launches.
+
+## Research
+
+- [Aviso X-Labs](https://www.aviso.com/x-labs): Aviso's R&D lab — #1 in emotional intelligence and conversational intelligence research.
+- [Sales Mindsets Intelligence Launch](https://www.aviso.com/sales-mindsets-intelligence-launch-event): Aviso × Consalia launch event for Sales Mindsets Intelligence (London).
+
+## Events
+
+- [Aviso at Dreamforce 2025](https://www.aviso.com/aviso-at-dreamforce-2025): Meet Halo and AI Avatars at Dreamforce 2025. Book a meeting and see live demos.
+
+## Company
+
+- [About Aviso](https://www.aviso.com/about): Mission, leadership, and company background.
+- [Careers](https://www.aviso.com/careers): Open roles in the US and India.
+- [Compliance](https://www.aviso.com/compliance): Security, privacy, and regulatory certifications (SOC 2, GDPR, etc.).
+- [Terms of Service](https://www.aviso.com/terms-of-service): Aviso's terms of service.
+- [Privacy Policy](https://www.aviso.com/privacy-policy): Aviso's privacy policy.
+
+## Sitemap & Crawler Reference
+
+- [XML Sitemap](https://www.aviso.com/sitemap.xml): Full machine-readable URL index of the public site (~947 URLs).
+- [Robots.txt](https://www.aviso.com/robots.txt): Crawler directives.

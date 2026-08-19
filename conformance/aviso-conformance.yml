@@ -1,0 +1,89 @@
+generated: '2026-08-13'
+method: searched
+source: https://www.aviso.com/compliance
+note: >-
+  Aviso publishes no machine-readable API contract, so no technical conformance can be
+  derived from a spec. What Aviso does publish is a corporate security and privacy
+  compliance posture, captured here from its own compliance and data-security pages.
+  Every entry below is asserted by Aviso on its own site; none has been independently
+  verified against an auditor's report.
+standards:
+- id: soc2-type-ii
+  name: SOC 2 Type II
+  conforms: true
+  scope: corporate security program
+  evidence:
+    quote: Aviso has successfully completed our annual SOC 2 security audit.
+    url: https://www.aviso.com/compliance
+    status: 200
+- id: gdpr
+  name: GDPR (EU 2016/679)
+  conforms: true
+  scope: personal data of EU data subjects
+  evidence:
+    quote: >-
+      General Data Protection Regulation - better known as GDPR, is a new privacy
+      regulation in the EU that went into effect on May 25, 2018.
+    url: https://www.aviso.com/compliance
+    status: 200
+- id: encryption-in-transit
+  name: TLS / HTTPS for data in transit
+  conforms: true
+  scope: all public network traffic
+  evidence:
+    quote: HTTPS/TLS over public networks
+    url: https://www.aviso.com/data-security-at-aviso-ai
+    status: 200
+- id: encryption-at-rest
+  name: AES-256 encryption at rest
+  conforms: true
+  scope: customer data stored in AWS
+  evidence:
+    quote: AES-256-bit encryption in AWS
+    url: https://www.aviso.com/data-security-at-aviso-ai
+    status: 200
+- id: iso-27001
+  name: ISO/IEC 27001
+  conforms: false
+  evidence:
+    note: not claimed on any public Aviso page
+- id: hipaa
+  name: HIPAA
+  conforms: false
+  evidence:
+    note: >-
+      not claimed, despite a Pharma and Life Sciences vertical solution
+      (https://www.aviso.com/solution/pharma-and-life-sciences)
+- id: pci-dss
+  name: PCI DSS
+  conforms: false
+  evidence:
+    note: not applicable; Aviso does not process cardholder data
+- id: fedramp
+  name: FedRAMP
+  conforms: false
+  evidence:
+    note: not claimed on any public Aviso page
+- id: oauth2
+  name: OAuth 2.0 (RFC 6749)
+  conforms: false
+  evidence:
+    note: >-
+      Aviso consumes OAuth as a CLIENT of Google Workspace, Microsoft 365 and CRM
+      platforms per its integration docs, but exposes no OAuth authorization server of
+      its own; /.well-known/oauth-authorization-server 404s on every Aviso host.
+- id: rfc9116
+  name: security.txt (RFC 9116)
+  conforms: false
+  evidence:
+    url: https://www.aviso.com/.well-known/security.txt
+    status: 404
+- id: llmstxt
+  name: llms.txt
+  conforms: true
+  scope: marketing and product documentation index for AI agents
+  evidence:
+    url: https://www.aviso.com/llms.txt
+    status: 200
+    note: 164-line llms.txt served as text/plain, indexing product, solution and resource pages
+checked: '2026-08-13'
