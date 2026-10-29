@@ -64,6 +64,92 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aviso is a company surfaced as a portfolio company of bloomberg-beta, cowboy-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Aviso is an end-to-end AI revenue platform that combines agentic AI, revenue forecasting, conversation intelligence, relationship intelligence, pipeline inspection, and unified RevOps capabilities to help go-to-market teams predict, guide, and simplify every revenue action. It offers role-specific AI agents, a no-code GTM Agent Studio, sales engagement and coaching, and a mobile revenue command center, with vertical solutions for Pharma and Life Sciences, Financial Services, and Technology. Aviso is SOC 2 Type II audited and GDPR compliant, and is backed by Bloomberg Beta and Cowboy Ventures.
 
-Backed by: bloomberg-beta, cowboy-ventures — http://www.aviso.com/
+**Areas:** Company · Revenue Intelligence · Sales · Artificial Intelligence · Forecasting · Conversation Intelligence · Revenue Operations · Analytics
+
+## Aviso on APIs.io
+
+Everything profiled for Aviso is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aviso/](https://apis.io/providers/aviso/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aviso Domain Security](https://apis.io/security/aviso/aviso-domain-security/)
+- [Aviso Trust Center](https://apis.io/security/aviso/aviso-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Aviso Plans Pricing](https://apis.io/plans/aviso/aviso-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.aviso.com/)
+- [Pricing](https://www.aviso.com/pricing)
+- [Support](https://dochelp.aviso.com/contact-us)
+- [Blog](https://www.aviso.com/blog)
+- [Compliance](https://www.aviso.com/compliance)
+- [Terms of service](https://www.aviso.com/terms-of-service)
+- [Privacy policy](https://www.aviso.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 20.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 53.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aviso/](https://apis.io/providers/aviso/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aviso: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aviso/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
